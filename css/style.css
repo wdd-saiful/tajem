@@ -139,12 +139,12 @@ nav{
     align-content: space-between;
 }
 .about-img{
-    width: 370px;
-    padding: 0 70px;
+    width: 380px;
+    text-align: center;
 }
 .about-text{
-    width: 550px;
-    padding: 0 20px;
+    width: 560px;
+    padding-left: 40px;
 }
 .about-text h3{
     font-family: 'Playfair Display', serif;
